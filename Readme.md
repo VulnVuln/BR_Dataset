@@ -24,8 +24,8 @@ Each JSON item is structured like
 </li>
 
 </ul>
-<h2>Data collection/h2>
+<h2>Data collection</h2>
 Concretely, the first part of security-relevant bug reports have been manually collected by relying on a publicly available security-commits dataset release in 2018 [17]. <br>
 The second part of this dataset is collected by checking the tracking  systems  of  Mozilla  and  RedHat  projects we were able to rely on the publicly-visible security tags put by development teams to collect 202 and 4 702 security-relevant bug reports, respectively from Mozilla and RedHat.
-<h2>Application/h2>
+<h2>Application</h2>
 </html>
