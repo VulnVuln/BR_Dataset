@@ -5,7 +5,7 @@
 <h2>Description</h2>
 <ul>
 <li> 
-<h3>"labeled_neg.json" contain non security bug reports</h3>
+<h3>"labeled_neg.json" contain non security-related bug reports</h3>
 Each JSON item is structured like
 <ul>
 <li> "id" : that contain the id of the bug report</li>
@@ -14,7 +14,7 @@ Each JSON item is structured like
 </ul>
 </li>
 <li> 
-<h3>"labeled_pos.json" contain security bug reports</h3>
+<h3>"labeled_pos.json" contain security-related bug reports</h3>
 Each JSON item is structured like
 <ul>
 <li> "id" : that contain the id of the bug report</li>
